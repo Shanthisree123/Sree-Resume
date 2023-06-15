@@ -1,0 +1,30 @@
+div{
+    padding: 15x;
+    background-color: rgb(126, 246, 246);
+    margin: 10px;
+    color: black;
+    line-height: 5px;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    }
+h3{
+    font-style: bold;
+    font-family: 'Times New Roman';
+}
+img{
+    float: right;   
+}
+.container{
+    background-color: #FFFFFF;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 30px;
+    line-height: 12px;
+    font-family: 'Times New Roman';
+}
+.divcontainer2{
+    background-color: #FFFFFF;
+    border: 0px;
+}
